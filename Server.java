@@ -1,10 +1,4 @@
- /*
- * @tile             Distributed Password Breaker(Server side)
- * @author           Mahedi Hasan
- * @description      developed for project submission in ICT-6544: Distributed Systems course in BUET
- * @date             05/02/2016
- */
- 
+
 import java.io.*;
 import java.net.*;
 import java.security.MessageDigest;
