@@ -1,5 +1,4 @@
-# Distributed-Password-Cracker
-#This project is developed for my project submission in ICT-6544: Distributed Systems course in BUET. 
+
 
 <h2>Introduction</h2>
 <p>The goal of this project is to create a distributed system that can run across the entire Internet. 
